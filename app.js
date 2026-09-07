@@ -421,26 +421,19 @@
 
   function renderCityMap() {
     const cityAgg = new Map(); // canonical -> {lat, lon, count}
-    let unmapped = 0;
-    let outOfAsia = 0;
 
     // The map is a terminal view: its bubbles always reflect the type/genre
     // filters unconditionally, regardless of click order (only the city's
     // own filter is excluded here, so every city still gets a bubble).
+    // Rows with a blank, unrecognized, or out-of-Asia city are silently
+    // skipped (not plotted).
     state.rows.forEach((r) => {
       if (!matchesFilter(r, "wayang_type") || !matchesFilter(r, "article_genre")) return;
-      if (r.city.status === "blank") return;
-      if (r.city.status === "unmapped") { unmapped++; return; }
-      if (r.city.status === "out_of_asia") { outOfAsia++; return; }
+      if (r.city.status !== "ok") return;
       const key = r.city.canonical;
       if (!cityAgg.has(key)) cityAgg.set(key, { lat: r.city.lat, lon: r.city.lon, count: 0 });
       cityAgg.get(key).count++;
     });
-
-    const noteParts = [];
-    if (unmapped > 0) noteParts.push(`${unmapped} mention${unmapped === 1 ? "" : "s"} with an unrecognized place name not shown`);
-    if (outOfAsia > 0) noteParts.push(`${outOfAsia} mention${outOfAsia === 1 ? "" : "s"} geocoded outside Asia, treated as errors and excluded`);
-    document.getElementById("cityNote").textContent = noteParts.join(" · ");
 
     if (!state.map) {
       state.map = L.map("cityMap", { scrollWheelZoom: false });
