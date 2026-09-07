@@ -1,0 +1,782 @@
+{
+  "singapore": {
+    "canonical": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  "singapura": {
+    "canonical": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  "سڠاڤورا": {
+    "canonical": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  "kuala lumpur": {
+    "canonical": "Kuala Lumpur",
+    "lat": 3.139,
+    "lon": 101.6869
+  },
+  "alor setar": {
+    "canonical": "Alor Setar",
+    "lat": 6.1248,
+    "lon": 100.3678
+  },
+  "kuala lipis": {
+    "canonical": "Kuala Lipis",
+    "lat": 4.1826,
+    "lon": 101.9998
+  },
+  "kota bharu": {
+    "canonical": "Kota Bharu",
+    "lat": 6.1254,
+    "lon": 102.2381
+  },
+  "kuta bharu": {
+    "canonical": "Kota Bharu",
+    "lat": 6.1254,
+    "lon": 102.2381
+  },
+  "kota baharu": {
+    "canonical": "Kota Bharu",
+    "lat": 6.1254,
+    "lon": 102.2381
+  },
+  "kota bahru": {
+    "canonical": "Kota Bharu",
+    "lat": 6.1254,
+    "lon": 102.2381
+  },
+  "pulau pinang": {
+    "canonical": "Penang (George Town)",
+    "lat": 5.4141,
+    "lon": 100.3288
+  },
+  "penang": {
+    "canonical": "Penang (George Town)",
+    "lat": 5.4141,
+    "lon": 100.3288
+  },
+  "sebarang perai": {
+    "canonical": "Seberang Perai",
+    "lat": 5.3897,
+    "lon": 100.4013
+  },
+  "johor bahru": {
+    "canonical": "Johor Bahru",
+    "lat": 1.4927,
+    "lon": 103.7414
+  },
+  "johor": {
+    "canonical": "Johor Bahru",
+    "lat": 1.4927,
+    "lon": 103.7414
+  },
+  "kuantan": {
+    "canonical": "Kuantan",
+    "lat": 3.8077,
+    "lon": 103.326
+  },
+  "pontian": {
+    "canonical": "Pontian",
+    "lat": 1.4877,
+    "lon": 103.3877
+  },
+  "seremban": {
+    "canonical": "Seremban",
+    "lat": 2.7297,
+    "lon": 101.9381
+  },
+  "kuala terengganu": {
+    "canonical": "Kuala Terengganu",
+    "lat": 5.3302,
+    "lon": 103.1408
+  },
+  "kuala langat": {
+    "canonical": "Kuala Langat",
+    "lat": 2.8319,
+    "lon": 101.5605
+  },
+  "kuala langor": {
+    "canonical": "Kuala Selangor",
+    "lat": 3.3306,
+    "lon": 101.2483
+  },
+  "london": {
+    "canonical": "London",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  "لندن": {
+    "canonical": "London",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  "bakri": {
+    "canonical": "Bakri",
+    "lat": 2.1167,
+    "lon": 102.6
+  },
+  "batu pahat": {
+    "canonical": "Batu Pahat",
+    "lat": 1.8548,
+    "lon": 102.9325
+  },
+  "kuala pileh": {
+    "canonical": "Kuala Pilah",
+    "lat": 2.7422,
+    "lon": 102.0387
+  },
+  "kuala pilah": {
+    "canonical": "Kuala Pilah",
+    "lat": 2.7422,
+    "lon": 102.0387
+  },
+  "temerloh": {
+    "canonical": "Temerloh",
+    "lat": 3.4506,
+    "lon": 102.4181
+  },
+  "bandung": {
+    "canonical": "Bandung",
+    "lat": -6.9175,
+    "lon": 107.6191
+  },
+  "mersing": {
+    "canonical": "Mersing",
+    "lat": 2.4306,
+    "lon": 103.8399
+  },
+  "ipoh": {
+    "canonical": "Ipoh",
+    "lat": 4.5975,
+    "lon": 101.0901
+  },
+  "muar": {
+    "canonical": "Muar",
+    "lat": 2.0442,
+    "lon": 102.5689
+  },
+  "دوڠون": {
+    "canonical": "Dungun",
+    "lat": 4.7716,
+    "lon": 103.4241
+  },
+  "pasir puteh": {
+    "canonical": "Pasir Puteh",
+    "lat": 5.8377,
+    "lon": 102.3985
+  },
+  "segamat": {
+    "canonical": "Segamat",
+    "lat": 2.5146,
+    "lon": 102.8151
+  },
+  "pasir panjang": {
+    "canonical": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  "solo": {
+    "canonical": "Solo (Surakarta)",
+    "lat": -7.5755,
+    "lon": 110.8243
+  },
+  "rembu": {
+    "canonical": "Rembau",
+    "lat": 2.5975,
+    "lon": 102.0972
+  },
+  "monte carlo": {
+    "canonical": "Monte Carlo",
+    "lat": 43.7384,
+    "lon": 7.4246
+  },
+  "melaka": {
+    "canonical": "Melaka",
+    "lat": 2.1896,
+    "lon": 102.2501
+  },
+  "bandarmelaka": {
+    "canonical": "Melaka",
+    "lat": 2.1896,
+    "lon": 102.2501
+  },
+  "padang": {
+    "canonical": "Padang, Indonesia",
+    "lat": -0.9492,
+    "lon": 100.3543
+  },
+  "jakarta": {
+    "canonical": "Jakarta",
+    "lat": -6.2088,
+    "lon": 106.8456
+  },
+  "kota tinggi": {
+    "canonical": "Kota Tinggi",
+    "lat": 1.7325,
+    "lon": 103.8999
+  },
+  "kuala kangsar": {
+    "canonical": "Kuala Kangsar",
+    "lat": 4.7702,
+    "lon": 100.9327
+  },
+  "klang": {
+    "canonical": "Klang",
+    "lat": 3.0333,
+    "lon": 101.45
+  },
+  "padang besar": {
+    "canonical": "Padang Besar",
+    "lat": 6.6667,
+    "lon": 100.3333
+  },
+  "tokyo": {
+    "canonical": "Tokyo",
+    "lat": 35.6762,
+    "lon": 139.6503
+  },
+  "tanjung karang": {
+    "canonical": "Tanjung Karang",
+    "lat": 3.4333,
+    "lon": 101.1833
+  },
+  "machang": {
+    "canonical": "Machang",
+    "lat": 5.7667,
+    "lon": 102.2167
+  },
+  "raub": {
+    "canonical": "Raub",
+    "lat": 3.7935,
+    "lon": 101.8579
+  },
+  "kuala perlis": {
+    "canonical": "Kuala Perlis",
+    "lat": 6.4041,
+    "lon": 100.1288
+  },
+  "kuala krai": {
+    "canonical": "Kuala Krai",
+    "lat": 5.5325,
+    "lon": 102.2018
+  },
+  "sabak bernam": {
+    "canonical": "Sabak Bernam",
+    "lat": 3.7833,
+    "lon": 100.9833
+  },
+  "kajang": {
+    "canonical": "Kajang",
+    "lat": 2.9931,
+    "lon": 101.7874
+  },
+  "pagoh": {
+    "canonical": "Pagoh",
+    "lat": 2.1333,
+    "lon": 102.75
+  },
+  "marang": {
+    "canonical": "Marang",
+    "lat": 5.2058,
+    "lon": 103.2064
+  },
+  "osaka": {
+    "canonical": "Osaka",
+    "lat": 34.6937,
+    "lon": 135.5023
+  },
+  "kuala selangor": {
+    "canonical": "Kuala Selangor",
+    "lat": 3.3306,
+    "lon": 101.2483
+  },
+  "pinang": {
+    "canonical": "Penang (George Town)",
+    "lat": 5.4141,
+    "lon": 100.3288
+  },
+  "kulim": {
+    "canonical": "Kulim",
+    "lat": 5.3656,
+    "lon": 100.5617
+  },
+  "pekan": {
+    "canonical": "Pekan",
+    "lat": 3.4855,
+    "lon": 103.399
+  },
+  "kuala kurau": {
+    "canonical": "Kuala Kurau",
+    "lat": 4.9333,
+    "lon": 100.4667
+  },
+  "kuala dungun": {
+    "canonical": "Dungun",
+    "lat": 4.7716,
+    "lon": 103.4241
+  },
+  "ulu remis": {
+    "canonical": "Ulu Remis, Johor",
+    "lat": 2.0333,
+    "lon": 103.3167
+  },
+  "sungai petani": {
+    "canonical": "Sungai Petani",
+    "lat": 5.6503,
+    "lon": 100.4859
+  },
+  "sungei pattani": {
+    "canonical": "Sungai Petani",
+    "lat": 5.6503,
+    "lon": 100.4859
+  },
+  "paris": {
+    "canonical": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522
+  },
+  "tanjung pura": {
+    "canonical": "Tanjung Pura, Indonesia",
+    "lat": 3.927,
+    "lon": 98.3648
+  },
+  "bagan datuk": {
+    "canonical": "Bagan Datuk",
+    "lat": 3.9987,
+    "lon": 100.8968
+  },
+  "singkawang": {
+    "canonical": "Singkawang, Indonesia",
+    "lat": 0.9,
+    "lon": 108.9833
+  },
+  "jasin": {
+    "canonical": "Jasin",
+    "lat": 2.3096,
+    "lon": 102.4407
+  },
+  "kuala kubu bharu": {
+    "canonical": "Kuala Kubu Bharu",
+    "lat": 3.5667,
+    "lon": 101.6667
+  },
+  "kuala jempol": {
+    "canonical": "Kuala Jempol",
+    "lat": 2.8333,
+    "lon": 102.35
+  },
+  "tanjung rambutan": {
+    "canonical": "Tanjung Rambutan",
+    "lat": 4.65,
+    "lon": 101.15
+  },
+  "kampung kerteh": {
+    "canonical": "Kerteh",
+    "lat": 4.5333,
+    "lon": 103.4333
+  },
+  "gemas": {
+    "canonical": "Gemas",
+    "lat": 2.5833,
+    "lon": 102.6167
+  },
+  "merlimau": {
+    "canonical": "Merlimau",
+    "lat": 2.15,
+    "lon": 102.4333
+  },
+  "pasir mas": {
+    "canonical": "Pasir Mas",
+    "lat": 6.05,
+    "lon": 102.1333
+  },
+  "tembeling": {
+    "canonical": "Kuala Tembeling",
+    "lat": 4.4667,
+    "lon": 102.35
+  },
+  "gombak": {
+    "canonical": "Gombak",
+    "lat": 3.2652,
+    "lon": 101.7062
+  },
+  "bukit besi": {
+    "canonical": "Bukit Besi",
+    "lat": 4.8333,
+    "lon": 103.1167
+  },
+  "anak bukit": {
+    "canonical": "Anak Bukit",
+    "lat": 6.15,
+    "lon": 100.35
+  },
+  "kuala muda": {
+    "canonical": "Kuala Muda",
+    "lat": 5.6333,
+    "lon": 100.4333
+  },
+  "sawah temerloh": {
+    "canonical": "Temerloh",
+    "lat": 3.4506,
+    "lon": 102.4181
+  },
+  "kukup": {
+    "canonical": "Kukup",
+    "lat": 1.3167,
+    "lon": 103.45
+  },
+  "kuala telemong": {
+    "canonical": "Kuala Telemong",
+    "lat": 5.2,
+    "lon": 103.05
+  },
+  "kapar": {
+    "canonical": "Kapar",
+    "lat": 3.1167,
+    "lon": 101.4
+  },
+  "nilai": {
+    "canonical": "Nilai",
+    "lat": 2.8167,
+    "lon": 101.8
+  },
+  "kulai": {
+    "canonical": "Kulai",
+    "lat": 1.6667,
+    "lon": 103.6
+  },
+  "surakarta": {
+    "canonical": "Solo (Surakarta)",
+    "lat": -7.5755,
+    "lon": 110.8243
+  },
+  "jambi": {
+    "canonical": "Jambi, Indonesia",
+    "lat": -1.6101,
+    "lon": 103.6131
+  },
+  "kuala ketil": {
+    "canonical": "Kuala Ketil",
+    "lat": 5.5333,
+    "lon": 100.6667
+  },
+  "petaling jaya": {
+    "canonical": "Petaling Jaya",
+    "lat": 3.1073,
+    "lon": 101.6067
+  },
+  "batu gajah": {
+    "canonical": "Batu Gajah",
+    "lat": 4.4667,
+    "lon": 101.05
+  },
+  "bogor": {
+    "canonical": "Bogor, Indonesia",
+    "lat": -6.5971,
+    "lon": 106.806
+  },
+  "maharashtra": {
+    "canonical": "Maharashtra, India",
+    "lat": 19.7515,
+    "lon": 75.7139
+  },
+  "kuching": {
+    "canonical": "Kuching",
+    "lat": 1.5535,
+    "lon": 110.3592
+  },
+  "kampar": {
+    "canonical": "Kampar",
+    "lat": 4.3333,
+    "lon": 101.15
+  },
+  "air hitam": {
+    "canonical": "Air Hitam, Johor",
+    "lat": 2.0,
+    "lon": 103.2333
+  },
+  "bachok": {
+    "canonical": "Bachok",
+    "lat": 6.05,
+    "lon": 102.4
+  },
+  "saigon": {
+    "canonical": "Saigon (Ho Chi Minh City)",
+    "lat": 10.8231,
+    "lon": 106.6297
+  },
+  "kuala dongon": {
+    "canonical": "Dungun",
+    "lat": 4.7716,
+    "lon": 103.4241
+  },
+  "serendah": {
+    "canonical": "Serendah",
+    "lat": 3.3167,
+    "lon": 101.5833
+  },
+  "perak": {
+    "canonical": "Perak (state, pinned to Ipoh)",
+    "lat": 4.5975,
+    "lon": 101.0901
+  },
+  "kelantan": {
+    "canonical": "Kelantan (state, pinned to Kota Bharu)",
+    "lat": 6.1254,
+    "lon": 102.2381
+  },
+  "selangor": {
+    "canonical": "Selangor (state, pinned to Shah Alam)",
+    "lat": 3.0733,
+    "lon": 101.5185
+  },
+  "kedah": {
+    "canonical": "Kedah (state, pinned to Alor Setar)",
+    "lat": 6.1248,
+    "lon": 100.3678
+  },
+  "terengganu": {
+    "canonical": "Terengganu (state, pinned to Kuala Terengganu)",
+    "lat": 5.3302,
+    "lon": 103.1408
+  },
+  "johore": {
+    "canonical": "Johor Bahru",
+    "lat": 1.4927,
+    "lon": 103.7414
+  },
+  "lampung": {
+    "canonical": "Lampung (province, pinned to Bandar Lampung)",
+    "lat": -5.4292,
+    "lon": 105.261
+  },
+  "hilir perak": {
+    "canonical": "Hilir Perak district (pinned to Teluk Intan)",
+    "lat": 4.0225,
+    "lon": 101.0209
+  },
+  "ulu perak": {
+    "canonical": "Ulu Perak district (pinned to Gerik)",
+    "lat": 5.4167,
+    "lon": 101.1167
+  },
+  "ulu langat": {
+    "canonical": "Ulu Langat district (pinned to Kajang)",
+    "lat": 2.9931,
+    "lon": 101.7874
+  },
+  "larut": {
+    "canonical": "Larut (historical district, pinned to Taiping)",
+    "lat": 4.85,
+    "lon": 100.7333
+  },
+  "kut tinggi": {
+    "canonical": "Kota Tinggi",
+    "lat": 1.7325,
+    "lon": 103.8999
+  },
+  "kut baharu": {
+    "canonical": "Kota Bharu",
+    "lat": 6.1254,
+    "lon": 102.2381
+  },
+  "kuttinggi": {
+    "canonical": "Kota Tinggi",
+    "lat": 1.7325,
+    "lon": 103.8999
+  },
+  "kuala kaduk": {
+    "canonical": "Kuala Kedah",
+    "lat": 6.1167,
+    "lon": 100.2667
+  },
+  "kuala langman": {
+    "canonical": "Kuala Langat",
+    "lat": 2.8319,
+    "lon": 101.5605
+  },
+  "kattong": {
+    "canonical": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  "tanjung katong": {
+    "canonical": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  "gersik": {
+    "canonical": "Gresik, Indonesia",
+    "lat": -7.1591,
+    "lon": 112.6524
+  },
+  "sungai pinang": {
+    "canonical": "Penang (George Town)",
+    "lat": 5.4141,
+    "lon": 100.3288
+  },
+  "taping": {
+    "canonical": "Taiping",
+    "lat": 4.85,
+    "lon": 100.7333
+  },
+  "kuala gangsa": {
+    "canonical": "Kuala Kangsar",
+    "lat": 4.7702,
+    "lon": 100.9327
+  },
+  "tengkak": {
+    "canonical": "Tangkak",
+    "lat": 2.2833,
+    "lon": 102.55
+  },
+  "taneh rata": {
+    "canonical": "Tanah Rata",
+    "lat": 4.4747,
+    "lon": 101.3781
+  },
+  "segama": {
+    "canonical": "Segamat",
+    "lat": 2.5146,
+    "lon": 102.8151
+  },
+  "teluk anson": {
+    "canonical": "Teluk Intan (historically Teluk Anson)",
+    "lat": 4.0225,
+    "lon": 101.0209
+  },
+  "keluang": {
+    "canonical": "Kluang",
+    "lat": 2.0333,
+    "lon": 103.3167
+  },
+  "krubug": {
+    "canonical": "Melaka",
+    "lat": 2.1896,
+    "lon": 102.2501
+  },
+  "penggong": {
+    "canonical": "Pengerang (best-guess for 'Penggong')",
+    "lat": 1.3667,
+    "lon": 104.1
+  },
+  "سيڠافورا": {
+    "canonical": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  "سيڠاڤورا": {
+    "canonical": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  "سيڠافور": {
+    "canonical": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  "سبڠاڤورا": {
+    "canonical": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  "کوالا لمفور": {
+    "canonical": "Kuala Lumpur",
+    "lat": 3.139,
+    "lon": 101.6869
+  },
+  "كوالا لمڤور": {
+    "canonical": "Kuala Lumpur",
+    "lat": 3.139,
+    "lon": 101.6869
+  },
+  "كوالا لومڤور": {
+    "canonical": "Kuala Lumpur",
+    "lat": 3.139,
+    "lon": 101.6869
+  },
+  "ڤنڠ": {
+    "canonical": "Penang (George Town)",
+    "lat": 5.4141,
+    "lon": 100.3288
+  },
+  "ڤينڠ": {
+    "canonical": "Penang (George Town)",
+    "lat": 5.4141,
+    "lon": 100.3288
+  },
+  "موار": {
+    "canonical": "Muar",
+    "lat": 2.0442,
+    "lon": 102.5689
+  },
+  "فونتيان": {
+    "canonical": "Pontian",
+    "lat": 1.4877,
+    "lon": 103.3877
+  },
+  "جوهر": {
+    "canonical": "Johor Bahru",
+    "lat": 1.4927,
+    "lon": 103.7414
+  },
+  "سلڠور": {
+    "canonical": "Selangor (state, pinned to Shah Alam)",
+    "lat": 3.0733,
+    "lon": 101.5185
+  },
+  "سبرڠفراي": {
+    "canonical": "Seberang Perai",
+    "lat": 5.3897,
+    "lon": 100.4013
+  },
+  "بندر بهارو": {
+    "canonical": "Bandar Baharu, Kedah",
+    "lat": 5.0333,
+    "lon": 100.4667
+  },
+  "بيرق": {
+    "canonical": "Perak (state, pinned to Ipoh)",
+    "lat": 4.5975,
+    "lon": 101.0901
+  },
+  "فيريک": {
+    "canonical": "Perak (state, pinned to Ipoh)",
+    "lat": 4.5975,
+    "lon": 101.0901
+  },
+  "سوئي بسي": {
+    "canonical": "Sungai Besi, Kuala Lumpur (best-guess)",
+    "lat": 3.0738,
+    "lon": 101.7099
+  },
+  "singkarang": {
+    "canonical": "Singkawang, Indonesia",
+    "lat": 0.9,
+    "lon": 108.9833
+  },
+  "kuala kedah": {
+    "canonical": "Kuala Kedah",
+    "lat": 6.1167,
+    "lon": 100.2667
+  },
+  "لابيس جوهر": {
+    "canonical": "Labis",
+    "lat": 2.3903,
+    "lon": 103.0233
+  },
+  "bander baharu": {
+    "canonical": "Bandar Baharu, Kedah",
+    "lat": 5.0333,
+    "lon": 100.4667
+  },
+  "كمفر": {
+    "canonical": "Kampar",
+    "lat": 4.3333,
+    "lon": 101.15
+  }
+}

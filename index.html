@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wayang in Jawi Print — Term Prevalence</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-left">
+    <h1 id="pageTitle">Wayang in Jawi Print</h1>
+    <p class="subtitle">Prevalence of a term across digitized newspaper pages</p>
+  </div>
+  <div class="topbar-right">
+    <label class="field">
+      <span class="field-label">Dataset</span>
+      <select id="datasetSelect"></select>
+    </label>
+  </div>
+</header>
+
+<nav class="tabs" role="tablist">
+  <button class="tab-btn active" data-tab="time" role="tab" aria-selected="true">Prevalence over time</button>
+  <button class="tab-btn" data-tab="dist" role="tab" aria-selected="false">Distributions</button>
+</nav>
+
+<main>
+  <section id="tab-time" class="tab-panel active" role="tabpanel">
+    <div class="panel-card">
+      <div class="panel-head">
+        <h2>Mentions per day</h2>
+        <span class="muted" id="timeTotal"></span>
+      </div>
+      <div id="timeChart" class="chart"></div>
+      <p class="hint">Click a bar to see the matching pages for that day.</p>
+    </div>
+
+    <div id="dayDetail" class="panel-card" hidden>
+      <div class="panel-head">
+        <h2 id="dayDetailTitle">Day</h2>
+        <button id="closeDetail" class="text-btn" type="button">Close ✕</button>
+      </div>
+      <ul id="dayDetailList" class="snippet-list"></ul>
+    </div>
+  </section>
+
+  <section id="tab-dist" class="tab-panel" role="tabpanel" hidden>
+    <div id="filterBar" class="filter-bar" hidden>
+      <span class="muted" id="filterSummary"></span>
+      <button id="clearFiltersBtn" class="text-btn" type="button">Clear filters ✕</button>
+    </div>
+    <p class="hint">Click a bar or a map circle to filter by that value; click again to clear it. Order matters: a chart only reflects filters picked before it — the map always reflects everything you've picked.</p>
+
+    <div class="grid-2">
+      <div class="panel-card">
+        <div class="panel-head">
+          <h2>By wayang type</h2>
+        </div>
+        <div id="typeChart" class="chart chart-small"></div>
+      </div>
+      <div class="panel-card">
+        <div class="panel-head">
+          <h2>By article genre</h2>
+        </div>
+        <div id="genreChart" class="chart chart-small"></div>
+      </div>
+    </div>
+
+    <div class="panel-card">
+      <div class="panel-head">
+        <h2>By event city</h2>
+        <span class="muted" id="cityNote"></span>
+      </div>
+      <div id="cityMap"></div>
+    </div>
+
+    <div id="cityDetail" class="panel-card" hidden>
+      <div class="panel-head">
+        <h2 id="cityDetailTitle">City</h2>
+        <button id="closeCityDetail" class="text-btn" type="button">Close ✕</button>
+      </div>
+      <ul id="cityDetailList" class="snippet-list"></ul>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <span>Data: digitized newspaper pages · region-level annotations</span>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+<script src="app.js?v=6"></script>
+</body>
+</html>
